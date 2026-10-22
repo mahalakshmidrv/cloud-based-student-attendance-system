@@ -1,0 +1,2 @@
+.env\nvenv/\n.venv/\n__pycache__/\n*.py[cod]\nattendance.db\n
+attendance.db
